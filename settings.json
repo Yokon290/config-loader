@@ -1,0 +1,6 @@
+{
+    "app_name": "Taskmanager",
+    "version": "1.0.3",
+    "debug_mode": "true",
+    "max_users": "10"
+}
